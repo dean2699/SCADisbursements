@@ -1,2 +1,2 @@
 # About
-This is an Automated Spreadsheet for Special Cash Advance Disbursements requested by the Accounting division of the Office of the Vice President.
+Special Cash Advance Disbursements Automated Spreadsheet utilizing Google Apps Script, Google Sheets, Google Forms, & Google Docs.
